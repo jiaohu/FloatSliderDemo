@@ -1,0 +1,3 @@
+[submodule "circle-tick-slider"]
+	path = circle-tick-slider
+	url = git@github.com:jiaohu/circle-tick-slider.git
